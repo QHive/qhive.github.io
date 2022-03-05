@@ -1,2 +1,2 @@
-# QHive.github.io
-webpage
+# Homepage
+it's just a website
