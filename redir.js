@@ -1,0 +1,1 @@
+window.location.replace("https://www.youtube.com/watch?v=lpiB2wMc49g&list=LL&index=1&ab_channel=CaitlinMyers");
